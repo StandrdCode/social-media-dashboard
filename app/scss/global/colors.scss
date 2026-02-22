@@ -1,0 +1,29 @@
+// HSL = Hue, Saturation, Lightness
+:root {
+    // PRIMARY
+    --green: hsl(163, 72%, 41%);
+    --red: hsl(356, 69%, 56%);
+    --white: hsl(0, 100%, 100%);
+
+    --facebook: hsl(208, 92%, 53%);
+    --twitter: hsl(203, 89%, 53%)
+    --instagram-start: hsl(37, 97%, 70%);
+    --instagram-end: hsl(329, 70%, 58%);
+    --youtube: hsl(348, 97%, 39%);
+
+    // DARK THEME
+    --toggle-start: hsl(210, 79%, 56%);
+    --toggle-end: hsl(146, 68%, 55%);
+
+    --gray-bg: hsl(230, 17%, 14%);
+    --gray-tbg: hsl(232, 19%, 15%);
+    --navy-bg: hsl(228, 28%, 20%);
+    --gray-text: hsl(230, 22%, 74%);
+
+    // LIGHT THEME
+    --toggle: hsl(230, 22%, 74%);
+    --blue-tbg: hsl(225, 100%, 98%);
+    --navy-cbg: hsl(227, 47%, 96%);
+    --gray-text2: hsl(228, 12%, 44%);
+    --gray-text3: hsl(230, 17%, 14%);
+}
